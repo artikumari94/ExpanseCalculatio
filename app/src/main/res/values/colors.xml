@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="application_background">#ff23729a</color>
+    <color name="white">#fff6fdff</color>
+    <color name="red">#B50012</color>
+    <color name="bright_red">#ffab271b</color>
+    <color name="dark_red">#ffb51139</color>
+    <color name="grey">#ff8b8b8b</color>
+    <color name="dark_grey">#ff717171</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#FFFFFF</color>
+
+    <color name="light_blue">#ff42959a</color>
+    <color name="dark_blue">#ff23729a</color>
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#0c94d7</color>
+    <color name="colorDarkSkyBlue">#146dd2</color>
+
+    <color name="colorLightSkyBlue">#8cd0f2</color>
+    <color name="colorGreen">#34ca3b</color>
+    <color name="colorLeafGreen">#F956C114</color>
+    <color name="colorDarkLeafGreen">#f9478c1b</color>
+    <color name="colorRed">#f9e22716</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkGrey">#938c8c</color>
+    <color name="colorLightGrey">#b4afaf</color>
+    <color name="colorDoubleLightGrey">#eae7e7</color>
+    <color name="LightGrey">#f2f2f2</color>
+    <color name="colorthingrey">#f5f4f4</color>
+
+
+    <color name="colorDoubleDarkGrey">#4b4848</color>
+    <color name="dark_gray_glucose">#6F7376</color>
+    <color name="translucent_baground">#65000000</color>
+</resources>
